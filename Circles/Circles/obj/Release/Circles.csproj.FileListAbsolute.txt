@@ -1,0 +1,9 @@
+C:\Ashley\Circles - Copie\Circles\bin\Release\Circles.exe.config
+C:\Ashley\Circles - Copie\Circles\bin\Release\Circles.exe
+C:\Ashley\Circles - Copie\Circles\bin\Release\Circles.pdb
+C:\Ashley\Circles - Copie\Circles\obj\Release\Circles.Form1.resources
+C:\Ashley\Circles - Copie\Circles\obj\Release\Circles.Properties.Resources.resources
+C:\Ashley\Circles - Copie\Circles\obj\Release\Circles.csproj.GenerateResource.Cache
+C:\Ashley\Circles - Copie\Circles\obj\Release\Circles.exe
+C:\Ashley\Circles - Copie\Circles\obj\Release\Circles.pdb
+C:\Ashley\Circles - Copie\Circles\obj\Release\Circles.csprojResolveAssemblyReference.cache

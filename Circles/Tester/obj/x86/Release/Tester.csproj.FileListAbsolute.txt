@@ -1,0 +1,11 @@
+C:\Ashley\Circles - Copie\Tester\bin\Release\Tester.exe.config
+C:\Ashley\Circles - Copie\Tester\bin\Release\Tester.exe
+C:\Ashley\Circles - Copie\Tester\bin\Release\Tester.pdb
+C:\Ashley\Circles - Copie\Tester\bin\Release\Circles.exe
+C:\Ashley\Circles - Copie\Tester\bin\Release\Circles.pdb
+C:\Ashley\Circles - Copie\Tester\obj\x86\Release\Tester.csprojResolveAssemblyReference.cache
+C:\Ashley\Circles - Copie\Tester\obj\x86\Release\Tester.Form1.resources
+C:\Ashley\Circles - Copie\Tester\obj\x86\Release\Tester.Properties.Resources.resources
+C:\Ashley\Circles - Copie\Tester\obj\x86\Release\Tester.csproj.GenerateResource.Cache
+C:\Ashley\Circles - Copie\Tester\obj\x86\Release\Tester.exe
+C:\Ashley\Circles - Copie\Tester\obj\x86\Release\Tester.pdb

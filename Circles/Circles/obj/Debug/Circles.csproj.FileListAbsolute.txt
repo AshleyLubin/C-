@@ -1,0 +1,85 @@
+C:\Documents and Settings\Christophe\Bureau\Circles\Circles\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Christophe\Bureau\Circles\Circles\obj\Debug\Circles.Form1.resources
+C:\Documents and Settings\Christophe\Bureau\Circles\Circles\obj\Debug\Circles.Properties.Resources.resources
+C:\Documents and Settings\Christophe\Bureau\Circles\Circles\obj\Debug\Circles.csproj.GenerateResource.Cache
+C:\Documents and Settings\Christophe\Bureau\Circles\Circles\bin\Debug\Circles.exe
+C:\Documents and Settings\Christophe\Bureau\Circles\Circles\bin\Debug\Circles.pdb
+C:\Documents and Settings\Christophe\Bureau\Circles\Circles\obj\Debug\Circles.exe
+C:\Documents and Settings\Christophe\Bureau\Circles\Circles\obj\Debug\Circles.pdb
+C:\Documents and Settings\Christophe\Bureau\Circles\Circles\Circles\obj\Debug\Circles.exe
+C:\Documents and Settings\Christophe\Bureau\Circles\Circles\Circles\obj\Debug\Circles.pdb
+C:\DEV AD\Big Nose\Circles\Circles\obj\Debug\Circles.exe
+C:\DEV AD\Big Nose\Circles\Circles\obj\Debug\Circles.pdb
+C:\DEV AD\Big Nose\Circles\Circles\bin\Debug\Circles.exe
+C:\DEV AD\Big Nose\Circles\Circles\bin\Debug\Circles.pdb
+C:\DEV AD\Big Nose\Circles\Circles\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV AD\Big Nose\Circles\Circles\obj\Debug\Circles.Form1.resources
+C:\DEV AD\Big Nose\Circles\Circles\obj\Debug\Circles.Properties.Resources.resources
+C:\DEV AD\Big Nose\Circles\Circles\obj\Debug\ResGen.read.1.tlog
+C:\DEV AD\Big Nose\Circles\Circles\obj\Debug\ResGen.write.1.tlog
+C:\DEV AD\Big Nose\Circles\Circles\bin\Debug\Circles.exe.config
+C:\DEV AD\Big Nose\Circles\Circles\obj\Debug\GenerateResource.read.1.tlog
+C:\DEV AD\Big Nose\Circles\Circles\obj\Debug\GenerateResource.write.1.tlog
+D:\Projets\Harry\Circles\Circles\bin\Debug\Circles.exe.config
+D:\Projets\Harry\Circles\Circles\obj\Debug\Circles.exe
+D:\Projets\Harry\Circles\Circles\obj\Debug\Circles.pdb
+D:\Projets\Harry\Circles\Circles\bin\Debug\Circles.exe
+D:\Projets\Harry\Circles\Circles\bin\Debug\Circles.pdb
+D:\Projets\Harry\Circles\Circles\obj\Debug\ResolveAssemblyReference.cache
+D:\Projets\Harry\Circles\Circles\obj\Debug\Circles.Form1.resources
+D:\Projets\Harry\Circles\Circles\obj\Debug\Circles.Properties.Resources.resources
+D:\Projets\Harry\Circles\Circles\obj\Debug\GenerateResource.read.1.tlog
+D:\Projets\Harry\Circles\Circles\obj\Debug\ResGen.read.1.tlog
+D:\Projets\Harry\Circles\Circles\obj\Debug\GenerateResource.write.1.tlog
+D:\Projets\Harry\Circles\Circles\obj\Debug\ResGen.write.1.tlog
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Circles\bin\Debug\Circles.exe.config
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Circles\obj\Debug\Circles.exe
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Circles\obj\Debug\Circles.pdb
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Circles\bin\Debug\Circles.exe
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Circles\bin\Debug\Circles.pdb
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Circles\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Circles\obj\Debug\Circles.Form1.resources
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Circles\obj\Debug\Circles.Properties.Resources.resources
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Circles\obj\Debug\GenerateResource.read.1.tlog
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Circles\obj\Debug\ResGen.read.1.tlog
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Circles\obj\Debug\GenerateResource.write.1.tlog
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Circles\obj\Debug\ResGen.write.1.tlog
+D:\AD\Circles\Circles\bin\Debug\Circles.exe.config
+D:\AD\Circles\Circles\obj\Debug\Circles.exe
+D:\AD\Circles\Circles\obj\Debug\Circles.pdb
+D:\AD\Circles\Circles\bin\Debug\Circles.exe
+D:\AD\Circles\Circles\bin\Debug\Circles.pdb
+D:\AD\Circles\Circles\obj\Debug\ResolveAssemblyReference.cache
+D:\AD\Circles\Circles\obj\Debug\Circles.Form1.resources
+D:\AD\Circles\Circles\obj\Debug\Circles.Properties.Resources.resources
+D:\AD\Circles\Circles\obj\Debug\GenerateResource.read.1.tlog
+D:\AD\Circles\Circles\obj\Debug\ResGen.read.1.tlog
+D:\AD\Circles\Circles\obj\Debug\GenerateResource.write.1.tlog
+D:\AD\Circles\Circles\obj\Debug\ResGen.write.1.tlog
+C:\Ashley\Circles\Circles\bin\Debug\Circles.exe.config
+C:\Ashley\Circles\Circles\obj\Debug\Circles.exe
+C:\Ashley\Circles\Circles\obj\Debug\Circles.pdb
+C:\Ashley\Circles\Circles\bin\Debug\Circles.exe
+C:\Ashley\Circles\Circles\bin\Debug\Circles.pdb
+C:\Ashley\Circles\Circles\obj\Debug\Circles.csprojResolveAssemblyReference.cache
+C:\Ashley\Circles\Circles\obj\Debug\Circles.Form1.resources
+C:\Ashley\Circles\Circles\obj\Debug\Circles.Properties.Resources.resources
+C:\Ashley\Circles\Circles\obj\Debug\Circles.csproj.GenerateResource.Cache
+C:\Ashley\Circles - Copie\Circles\bin\Debug\Circles.exe.config
+C:\Ashley\Circles - Copie\Circles\obj\Debug\Circles.exe
+C:\Ashley\Circles - Copie\Circles\obj\Debug\Circles.pdb
+C:\Ashley\Circles - Copie\Circles\bin\Debug\Circles.exe
+C:\Ashley\Circles - Copie\Circles\bin\Debug\Circles.pdb
+C:\Ashley\Circles - Copie\Circles\obj\Debug\Circles.Form1.resources
+C:\Ashley\Circles - Copie\Circles\obj\Debug\Circles.Properties.Resources.resources
+C:\Ashley\Circles - Copie\Circles\obj\Debug\Circles.csproj.GenerateResource.Cache
+C:\Ashley\Circles - Copie\Circles\obj\Debug\Circles.csprojResolveAssemblyReference.cache
+S:\Projet\Circles\Circles\bin\Debug\Circles.exe.config
+S:\Projet\Circles\Circles\obj\Debug\Circles.exe
+S:\Projet\Circles\Circles\obj\Debug\Circles.pdb
+S:\Projet\Circles\Circles\bin\Debug\Circles.exe
+S:\Projet\Circles\Circles\bin\Debug\Circles.pdb
+S:\Projet\Circles\Circles\obj\Debug\Circles.csprojResolveAssemblyReference.cache
+S:\Projet\Circles\Circles\obj\Debug\Circles.Form1.resources
+S:\Projet\Circles\Circles\obj\Debug\Circles.Properties.Resources.resources
+S:\Projet\Circles\Circles\obj\Debug\Circles.csproj.GenerateResource.Cache

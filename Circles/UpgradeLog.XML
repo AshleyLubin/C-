@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Circles">
+</Property><Property Name="Solution File" Value="C:\DEV AD\Big Nose\Circles\Circles.sln">
+</Property><Property Name="User Options File" Value="C:\DEV AD\Big Nose\Circles\Circles.suo">
+</Property><Property Name="Date" Value="mardi 26 juin 2012">
+</Property><Property Name="Time" Value="15:37">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Circles.sln" Description="File successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Circles.suo" Description="File successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles.suo">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\Circles.csproj" Description="Project file successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles\Circles.csproj">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\Circle.cs" Description="File successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles\Circle.cs">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\Form1.cs" Description="File successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\Form1.Designer.cs" Description="File successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\Pack.cs" Description="File successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles\Pack.cs">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\Program.cs" Description="File successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles\Program.cs">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\RandomManager.cs" Description="File successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles\RandomManager.cs">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\Properties\Settings.settings" Description="File successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\Form1.resx" Description="File successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\Properties\Resources.resx" Description="File successfully backed up as C:\DEV AD\Big Nose\Circles\Backup\Circles\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\Circles.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Circles" Source="Circles\Circles.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Circles.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Circles.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Circles" Source="Circles\Circles.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

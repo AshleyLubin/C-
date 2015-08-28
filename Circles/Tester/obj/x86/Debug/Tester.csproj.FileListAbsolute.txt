@@ -1,0 +1,64 @@
+D:\Projets\Harry\Circles\Tester\bin\Debug\Tester.exe
+D:\Projets\Harry\Circles\Tester\bin\Debug\Tester.pdb
+D:\Projets\Harry\Circles\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projets\Harry\Circles\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+D:\Projets\Harry\Circles\Tester\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projets\Harry\Circles\Tester\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projets\Harry\Circles\Tester\obj\x86\Debug\Tester.exe
+D:\Projets\Harry\Circles\Tester\obj\x86\Debug\Tester.pdb
+D:\Projets\Harry\Circles\Tester\bin\Debug\Tester.exe.config
+D:\Projets\Harry\Circles\Tester\bin\Debug\Circles.exe
+D:\Projets\Harry\Circles\Tester\bin\Debug\Circles.pdb
+D:\Projets\Harry\Circles\Tester\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projets\Harry\Circles\Tester\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projets\Harry\Circles\Tester\obj\x86\Debug\Tester.Form1.resources
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Tester\bin\Debug\Tester.exe.config
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Tester\bin\Debug\Tester.exe
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Tester\bin\Debug\Tester.pdb
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Tester\bin\Debug\Circles.exe
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Tester\bin\Debug\Circles.pdb
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Tester\obj\x86\Debug\Tester.Form1.resources
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Tester\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Tester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Tester\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Tester\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Tester\obj\x86\Debug\Tester.exe
+C:\DEV AD\HARRY\Circles - cpx v1.1\Circles\Tester\obj\x86\Debug\Tester.pdb
+D:\AD\Circles\Tester\bin\Debug\Tester.exe.config
+D:\AD\Circles\Tester\bin\Debug\Tester.exe
+D:\AD\Circles\Tester\bin\Debug\Tester.pdb
+D:\AD\Circles\Tester\bin\Debug\Circles.exe
+D:\AD\Circles\Tester\bin\Debug\Circles.pdb
+D:\AD\Circles\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\AD\Circles\Tester\obj\x86\Debug\Tester.Form1.resources
+D:\AD\Circles\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+D:\AD\Circles\Tester\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\AD\Circles\Tester\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\AD\Circles\Tester\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\AD\Circles\Tester\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\AD\Circles\Tester\obj\x86\Debug\Tester.exe
+D:\AD\Circles\Tester\obj\x86\Debug\Tester.pdb
+C:\Ashley\Circles\Tester\bin\Debug\Tester.exe.config
+C:\Ashley\Circles\Tester\bin\Debug\Tester.exe
+C:\Ashley\Circles\Tester\bin\Debug\Tester.pdb
+C:\Ashley\Circles\Tester\bin\Debug\Circles.exe
+C:\Ashley\Circles\Tester\bin\Debug\Circles.pdb
+C:\Ashley\Circles\Tester\obj\x86\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Ashley\Circles\Tester\obj\x86\Debug\Tester.Form1.resources
+C:\Ashley\Circles\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+C:\Ashley\Circles\Tester\obj\x86\Debug\Tester.csproj.GenerateResource.Cache
+C:\Ashley\Circles\Tester\obj\x86\Debug\Tester.exe
+C:\Ashley\Circles\Tester\obj\x86\Debug\Tester.pdb
+C:\Ashley\Circles - Copie\Tester\bin\Debug\Tester.exe.config
+C:\Ashley\Circles - Copie\Tester\bin\Debug\Tester.exe
+C:\Ashley\Circles - Copie\Tester\bin\Debug\Tester.pdb
+C:\Ashley\Circles - Copie\Tester\bin\Debug\Circles.exe
+C:\Ashley\Circles - Copie\Tester\bin\Debug\Circles.pdb
+C:\Ashley\Circles - Copie\Tester\obj\x86\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Ashley\Circles - Copie\Tester\obj\x86\Debug\Tester.Form1.resources
+C:\Ashley\Circles - Copie\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+C:\Ashley\Circles - Copie\Tester\obj\x86\Debug\Tester.csproj.GenerateResource.Cache
+C:\Ashley\Circles - Copie\Tester\obj\x86\Debug\Tester.exe
+C:\Ashley\Circles - Copie\Tester\obj\x86\Debug\Tester.pdb
